@@ -1,0 +1,16 @@
+## Tên đề tài:  : Xây dựng hệ thống quản lý bán linh kiện máy tính
+## Sinh viên thực hiện : Lý Trường Hà
+## Lớp : D15PM01
+## Giảng viên hướng dẫn : Th.s Nguyễn Tấn Lộc
+## Mô Tả : Đây là website cung cấp cho khách hàng những thông tin chính xác về các sản phẩm laptop và linh kiện có trên thị trường và hổ trợ đặt mua một cách nhanh chóng
+## Chức năng : 
+
+1.Quản lý danh sách sản phẩm
+2.Quản lý danh mục sản phẩm
+3.Quản lý đơn hàng
+4.Quản lý thành viên
+5.Quản lý liên hệ
+6.Tìm kiếm sản phẩm, xem theo dnah mục sản phẩm
+7.Giỏ hàng trực tuyến
+8.Đặt hàng, mua hàng với nhiều hình thức thanh toán
+9.Xem chi tiết sản phẩm
